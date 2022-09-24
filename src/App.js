@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -13,7 +12,7 @@ function App() {
         <section>
           <h2>Cat Photos</h2>
           <p>Click here to view more
-            <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>
+            <a target="_blank" rel="noreferrer" href="https://freecatphotoapp.com">cat photos</a>
           </p>
           <a href="https://freecatphotoapp.com">
             <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."/>
