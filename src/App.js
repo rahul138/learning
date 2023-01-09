@@ -15,7 +15,7 @@ function App() {
             <a target="_blank" rel="noreferrer" href="https://freecatphotoapp.com">cat photos</a>
           </p>
           <a href="https://freecatphotoapp.com">
-            <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."/>
+            <img src="https://c8.alamy.com/comp/PM9937/iron-man-3-tony-starkiron-man-robert-downey-jr-PM9937.jpg" alt="A cute orange cat lying on its back."/>
           </a>
         </section>
         <section>
