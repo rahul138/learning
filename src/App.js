@@ -7,7 +7,7 @@ function App() {
         <title>CatPhotoApp</title>
       </head>
       <body>
-      <h1>CatPhotoApp</h1>
+      <h1>My Name is Rohit Yadav Don..........</h1>
       <main>
         <section>
           <h2>Cat Photos</h2>
